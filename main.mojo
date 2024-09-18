@@ -38,3 +38,16 @@ def test():
 def main():
     print(test())
 """
+
+"""
+var a = 10
+var b = 100
+
+fn main():
+    a = 100
+    print(a,b);
+
+
+var <name> = Explicitly-declared variables are created with the var keyword, and may include type annotations.
+<name> = Implicitly-declared variables are created with an assignment statement
+"""
